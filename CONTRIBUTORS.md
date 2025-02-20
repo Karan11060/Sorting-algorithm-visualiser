@@ -1,2 +1,1 @@
-Mathias Pihl
-Christian Grünberg
+Karan Baj
